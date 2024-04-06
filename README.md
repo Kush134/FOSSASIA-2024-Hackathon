@@ -26,7 +26,7 @@ app: Next.js frontend to interact with smart contracts and AI apis <br />
 
 1. Clone the repo
    ```sh
-   git clone..
+   git clone https://github.com/Kush134/FOSSASIA-2024-Hackathon.git
    
    ```
 2. Install NPM packages
