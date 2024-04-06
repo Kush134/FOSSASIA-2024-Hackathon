@@ -41,4 +41,4 @@ app: Next.js frontend to interact with smart contracts and AI apis <br />
 
 <br />
 
-   [Video demo](https://youtu.be/bSFRHbp7co4?si=QKJ8Q6G8gEJoQmm5)
+   [Video demo](https://youtu.be/XeeVtVo-dko)
