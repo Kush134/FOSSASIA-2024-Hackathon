@@ -26,7 +26,7 @@ app: Next.js frontend to interact with smart contracts and AI apis <br />
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/anshss/constellation
+   git clone..
    
    ```
 2. Install NPM packages
